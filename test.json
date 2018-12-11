@@ -1,0 +1,5 @@
+{
+    "products": [
+        { "name": "Produit Test", "qte": 50}
+    ]
+}
