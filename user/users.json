@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "username": "Noël",
+        "email": "manon.charpentier@dbmail.com",
+        "password": "User12340",
+        "image": "https:\/\/lorempixel.com\/640\/480\/?84942"
+    },
+    {
+        "id": "2",
+        "username": "Éric",
+        "email": "gantoine@ifrance.com",
+        "password": "User12341",
+        "image": "https:\/\/lorempixel.com\/640\/480\/?47238"
+    },
+    {
+        "id": "3",
+        "username": "Jacqueline",
+        "email": "emilie15@dbmail.com",
+        "password": "User12342",
+        "image": "https:\/\/lorempixel.com\/640\/480\/?65315"
+    },
+    {
+        "id": "4",
+        "username": "Marine",
+        "email": "paul.toussaint@noos.fr",
+        "password": "User12343",
+        "image": "https:\/\/lorempixel.com\/640\/480\/?24708"
+    },
+    {
+        "id": "5",
+        "username": "Aimé",
+        "email": "nhubert@hamon.fr",
+        "password": "User12344",
+        "image": "https:\/\/lorempixel.com\/640\/480\/?58149"
+    }
+]
