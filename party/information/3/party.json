@@ -1,0 +1,25 @@
+[
+	{"information" : {
+		"id" : 3,
+		"organisateur_id" : 4,
+		"title" : "Soirée de kikiz",
+		"description" : "la méga teuf super smash bros !",
+		"image" : null,
+		"address" : "Université de Valenciennes",
+		"date" : "2019-01-02 00:00:00"
+	},
+	"products": 
+		[{
+			"id" : 6,
+			"party_id" : 3,
+			"product_id" : 123,
+			"required_qte" : 4
+		},
+		{
+			"id" : 7,
+			"party_id" : 3,
+			"product_id" : 789,
+			"required_qte" : 8
+		}]
+	}
+]

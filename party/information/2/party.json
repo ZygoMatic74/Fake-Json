@@ -1,0 +1,27 @@
+[
+	{
+		"informations": {
+		"id" : 2,
+		"organisateur_id" : 3,
+		"title" : "La soirée de PtitWiggler",
+		"description" : "La super soirée de PtitWiggler !",
+		"image" : "",
+		"address" : "Universite Polytechnique des Hauts de France",
+		"date" : "2018-12-31 00:00:00"
+		},
+		"products" : [
+			{
+				"id" : 6,
+				"party_id" : 3,
+				"product_id" : 123,
+				"required_qte" : 4
+			},
+			{
+				"id" : 7,
+				"party_id" : 3,
+				"product_id" : 789,
+				"required_qte" : 8
+			}
+		]
+	}
+]
